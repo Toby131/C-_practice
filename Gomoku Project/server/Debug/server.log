@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\user\source\repos\Gomoku Project\server\main.cpp(55,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\Gomoku Project\server\main.cpp(66,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\Gomoku Project\server\main.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\Gomoku Project\server\main.cpp(94,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\Gomoku Project\server\main.cpp(115,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\Gomoku Project\server\main.cpp(166,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  server.vcxproj -> C:\Users\user\source\repos\Gomoku Project\Debug\server.exe
